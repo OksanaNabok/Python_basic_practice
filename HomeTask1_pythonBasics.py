@@ -16,7 +16,6 @@ def bubble_sort(arr):
                 arr[i], arr[i + 1] = arr[i + 1], arr[i]
 print("Unsorted list is:")
 print(list_of_randoms)
-
 bubble_sort(list_of_randoms)
 
 print("Sorted list is:")
