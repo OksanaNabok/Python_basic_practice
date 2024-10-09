@@ -32,5 +32,3 @@ odd_avg=s.mean(list_odd)
 
 #print both average result in console
 print(f"Even average: {even_avg:.3f} \nOdd average: {odd_avg:.3f} ")
-
-#Each line of code should be commented with description.
