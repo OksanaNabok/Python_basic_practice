@@ -1,0 +1,6 @@
+news;New York;It is going to rain tomorrow.
+news;Kyiv;It is going to be sunny tomorrow.
+ad;2025-04-22;Discounts at your favorite store!
+ad;2025-04-20;Christian Holiday!
+weather;Kyiv; 5
+weather; Lviv; 0
